@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **Taiwozeez/Taiwozeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.# 💫 About Me:
 <br> PROFILE<br>Innovative and articulate professional with expertise in Software Engineering, Public Administration and Customer Service. Skilled in driving organizational efficiency through effective management of policies, cutting-edge technical solutions, and exceptional stakeholder engagement. Proficient in building responsive and user-friendly front-end applications, fostering positive customer relationships, and implementing public administration strategies that achieve impactful results. Eager to leverage my diverse skill set in a challenging role that promotes growth and meaningful contributions.<br><br><br>SKILLS<br>Proficient in Software Engineering with expertise in front-end development using HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS.<br>Proficient in development tools and technologies, including Visual Studio Code (VS Code), API integration, Command Prompt/Terminal, Node.js, and PowerShell.<br>Advanced proficiency in Microsoft Office Suite, including Word and Excel.<br>Strong written and verbal communication skills.<br>Certified in soft skills development.<br>Exceptional teamwork, leadership, and customer-focused service abilities.<br>Comprehensive knowledge of public policy development, analysis, and implementation.
 
@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Taiwozeez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 Here are some ideas to get you started:
 
