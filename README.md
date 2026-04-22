@@ -18,7 +18,15 @@ Link 7. https://skillpaddy-project-one.vercel.app/
 
 Link 8. https://core-vault-ten.vercel.app/
 
-<br>Innovative and articulate Software Engineer and Web/Mobile app Developer, specializing in crafting dynamic, responsive, and user-friendly digital solutions.<br><br>I am skilled in building scalable front-end applications using modern technologies such as HTML, CSS, JavaScript, TypeScript, React, Next.Js, Vue.js, React Native, Flutter and Tailwind CSS. My passion lies in transforming user needs into intuitive, visually compelling interfaces that ensure seamless functionality and accessibility across devices.<br><br>With a strong background in software engineering, I excel at designing and maintaining high-performance applications that prioritize usability. My expertise extends to responsive design principles and delivering high-quality solutions aligned with client and organizational goals.<br><br>Core Competencies:<br><br>Front-End Development: Creating engaging, interactive, and responsive interfaces using modern frameworks.<br><br>Software Design: Implementing scalable architectures with maintainable codebases.<br><br>Problem-Solving: Tackling technical challenges with innovative solutions.<br><br>Collaboration: Thriving in cross-functional teams to deliver cohesive, impactful projects.<br><br>Continuous Learning: Adapting to emerging technologies and trends to stay ahead.<br><br><br>Passionate about crafting impactful digital experiences, I’m eager to contribute to innovative projects and continue growing as a developer.<br>
+Link 9. https://ai-agent-taiwo-adelaja.vercel.app/
+
+
+<br>Proactive Software Engineer and AI Engineer with expertise in JavaScript, TypeScript, React,
+React Native, Next.js, Vue.js, Tailwind CSS, python and Flutter. Adept at creating responsive
+and user-friendly web applications and collaborating with cross-functional teams.
+Experienced in customer service and public administration, bringing a unique blend of
+technical and interpersonal skills to enhance organizational efficiency and user satisfaction.
+Eager to contribute to innovative projects in a challenging role.<br>
 
 
 # 💻 Tech Stack:
